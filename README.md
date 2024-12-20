@@ -34,27 +34,31 @@ Edit and organize notes with rich text formatting and multimedia attachments.
 
 ## Login Page
 
-![Screenshot (55)](https://github.com/devraj88/ProjectApp/assets/e6c16d98-9342-4d37-b17c-7035fcbd77dd.png)
+![login](https://github.com/user-attachments/assets/12c63f6d-6772-4726-98f2-1850226be89e)
+
 
 ## Home Page
 
-![Screenshot (65)](https://github.com/devraj88/ProjectApp/assets/d9e4fc89-d1ad-4604-b610-6842e5e71b48.png)
+![home](https://github.com/user-attachments/assets/1404e73a-38cb-4aa1-82df-fc074f2d2cae)
 
 ## To-Do Page
 
-![Screenshot (61)](https://github.com/devraj88/ProjectApp/assets/45f2bb36-08db-4e4e-9c6d-ea84845469b1.png)
+![todo](https://github.com/user-attachments/assets/ea0016c2-d669-41e8-97ea-29b9a562c028)
+
 
 ## Task Page
 
-![Screenshot (62)](https://github.com/devraj88/ProjectApp/assets/0ac74f42-3851-4102-a2f9-ee609ded1eba.png)
+![task](https://github.com/user-attachments/assets/6942f8a4-18e3-456b-b9a8-1100808f6d1f)
+
 
 ## Notes Page
 
-![Screenshot (63)](https://github.com/devraj88/ProjectApp/assets/a5726406-2b8b-445b-8ee9-01bd1e64d79c.png)
+![notes](https://github.com/user-attachments/assets/b8625754-e04a-4d54-bc5d-74a942b9c996)
 
 ## Dark - Mode
 
-![Screenshot (64)](https://github.com/devraj88/ProjectApp/assets/30f8cd99-c136-4721-b552-6a146827ed88.png)
+![dark](https://github.com/user-attachments/assets/fbe6cad9-7019-4900-8dfe-2f1153e93ccf)
+
 
 ## Technologies Used
 
