@@ -31,17 +31,17 @@ Edit and organize notes with rich text formatting and multimedia attachments.
 
 # DEMO
 ## Login Page
-![Screenshot (55)](https://github.com/John12356/Task-Manager--First-MERN/assets/91779049/e6c16d98-9342-4d37-b17c-7035fcbd77dd)
+![Screenshot (55)](https://github.com/devraj88/ProjectApp/assets/91779049/e6c16d98-9342-4d37-b17c-7035fcbd77dd)
 ## Home Page
-![Screenshot (65)](https://github.com/John12356/Task-Manager--First-MERN/assets/91779049/d9e4fc89-d1ad-4604-b610-6842e5e71b48)
+![Screenshot (65)](https://github.com/devraj88/ProjectApp/assets/91779049/d9e4fc89-d1ad-4604-b610-6842e5e71b48)
 ## To-Do Page
-![Screenshot (61)](https://github.com/John12356/Task-Manager--First-MERN/assets/91779049/45f2bb36-08db-4e4e-9c6d-ea84845469b1)
+![Screenshot (61)](https://github.com/devraj88/ProjectApp/assets/91779049/45f2bb36-08db-4e4e-9c6d-ea84845469b1)
 ## Task Page
-![Screenshot (62)](https://github.com/John12356/Task-Manager--First-MERN/assets/91779049/0ac74f42-3851-4102-a2f9-ee609ded1eba)
+![Screenshot (62)](https://github.com/devraj88/ProjectApp/assets/91779049/0ac74f42-3851-4102-a2f9-ee609ded1eba)
 ## Notes Page
-![Screenshot (63)](https://github.com/John12356/Task-Manager--First-MERN/assets/91779049/a5726406-2b8b-445b-8ee9-01bd1e64d79c)
+![Screenshot (63)](https://github.com/devraj88/ProjectApp/assets/91779049/a5726406-2b8b-445b-8ee9-01bd1e64d79c)
 ## Dark - Mode
-![Screenshot (64)](https://github.com/John12356/Task-Manager--First-MERN/assets/91779049/30f8cd99-c136-4721-b552-6a146827ed88)
+![Screenshot (64)](https://github.com/devraj88/ProjectApp/assets/91779049/30f8cd99-c136-4721-b552-6a146827ed88)
 
 ## Technologies Used
 
@@ -124,7 +124,7 @@ We appreciate your interest in contributing to our project! Whether you're a dev
 1. Fork the repository.
 2. Clone your forked repository:
  ```bash
-   git clone https://github.com/john12356/Task-Manager--First-MERN.git
+   git clone https://github.com/devraj88/ProjectApp.git
 ```
 ## Issues and Bug Reports
 
@@ -144,7 +144,7 @@ This project is licensed under the [MIT License](LICENSE). See the [LICENSE](LIC
 We greatly appreciate all contributions to this project. Contributors will be acknowledged in our [CONTRIBUTORS.md](CONTRIBUTORS.md) file. Thank you for your support!
 ## Feedback
 
-For any queries and improvements please reach out to johnmoorthi85131@gmail.com
+For any queries and improvements please reach out to devrajse1@gmail.com
 
 # Thank You
 
